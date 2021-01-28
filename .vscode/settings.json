@@ -1,3 +1,4 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "c:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe"
 }
