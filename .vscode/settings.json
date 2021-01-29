@@ -1,4 +1,5 @@
 {
     "git.ignoreLimitWarning": true,
+    "python.linting.pylintPath":"c:\\Users\\HP\\.virtualenvs\\FastAPI-GPc05xyD\\Scripts\\pylint.exe",
     "python.pythonPath": "c:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe"
 }
